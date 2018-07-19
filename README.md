@@ -31,9 +31,9 @@ tag points to `cleaned`.
 
 [![](https://images.microbadger.com/badges/image/frolvlad/alpine-oraclejre8:full.svg)](http://microbadger.com/images/frolvlad/alpine-oraclejre8:full "Get your own image badge on microbadger.com")
 
-In case you need to compile Java code with Oracle JDK, consider using
-[`frolvlad/alpine-oraclejdk8`](https://github.com/frol/docker-alpine-oraclejdk8)
-image.
+
+Consider using [`frolvlad/alpine-oraclejre8`](https://github.com/frol/docker-alpine-oraclejre8)
+image (~119MB) if you only need JRE (you can run Java applications, but cannot build/compile them).
 
 
 Usage Example
